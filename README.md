@@ -14,7 +14,7 @@
 - Solenoid Valve
 ## First Time Setting
   1.ตั้งค่า"Wifi Name"และ"Password"โดยไปที่ไฟล์config.h<br>
-  ![](img/settingwifi.jpg)
+  ![](img/settingwifi.jpg)<br>
   2.อัพโหลดลงเครื่องโดยใช้โปรแกรมArduino IDE<br>
   3.เปิดSerial Monitorเพื่อดูค่าIP Address<br>
   4.ใช้IP Addressเพื่อเข้าเว็บไซด์ดูค่าสถานะ<br>
