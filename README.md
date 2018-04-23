@@ -19,7 +19,7 @@
 |:-:|--|------|---------------|---------|
 |![](img/siwawat.jpg)|Siwawat|Srisuk|[@unixxcorn](https://github.com/unixxcorn)|60070096|
 |![](img/sopoat.jpg)|Sopoat|Iamcharoen|[@sopoat0101](https://github.com/sopoat0101)|60070101|
-|![](img/ariya.jpg)|Ariya|Sonklin|[@unixxcorn](https://github.com/AriyaSonklin)|60070118|
+|![](img/ariya.jpg)|Ariya|Sonklin|[@AriyaSonklin](https://github.com/AriyaSonklin)|60070118|
 ## ![](img/Supervisor.png) Assistant Teacher
 |ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
 |:-:|:-:|
