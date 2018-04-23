@@ -19,7 +19,7 @@
   3.เปิดSerial Monitorเพื่อดูค่าIP Address<br>
   ![](img/IPaddress.jpg)<br>
   4.ใช้IP Addressเพื่อเข้าเว็บไซด์ดูค่าสถานะกดปุ่มsettingเพื่อไปหน้าตั้งค่า<br>
-  
+  ![](img/web1.jpg)<br>
   5.กำหนดค่าอุณหภูมิ ความชื้นในดิน และความชื้นในอากาศและกดปุ่มapply<br>
   ![](img/web2.jpg)<br>
 ## Team Members
