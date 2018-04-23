@@ -13,7 +13,12 @@
 - SD Card Module
 - Solenoid Valve
 ## First Time Setting
-  1.
+  1.ตั้งค่า"Wifi Name"และ"Password"โดยไปที่ไฟล์config.h
+  2.อัพโหลดลงเครื่องโดยใช้โปรแกรมArduino IDE
+  3.เปิดSerial Monitorเพื่อดูค่าIP Address
+  4.ใช้IP Addressเพื่อเข้าเว็บไซด์ดูค่าสถานะ
+  5.กดปุ่มsettingกำหนดค่าอุณหภูมิ ความชื้นในดิน และความชื้นในอากาศ
+  
 ## Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
