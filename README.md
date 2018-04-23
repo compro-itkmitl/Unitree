@@ -17,6 +17,7 @@
   ![](img/settingwifi.jpg)<br>
   2.อัพโหลดลงเครื่องโดยใช้โปรแกรมArduino IDE<br>
   3.เปิดSerial Monitorเพื่อดูค่าIP Address<br>
+  ![](img/IPaddress.jpg)<br>
   4.ใช้IP Addressเพื่อเข้าเว็บไซด์ดูค่าสถานะ<br>
   5.กดปุ่มsettingกำหนดค่าอุณหภูมิ ความชื้นในดิน และความชื้นในอากาศ<br>
   
