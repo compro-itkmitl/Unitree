@@ -1,5 +1,10 @@
 # Unitree
-  UniTree is a project to monitoring and water your plan over website.
+![](img/preview.jpg)
+## Introduction
+   ในปัจจุบัน เทคโนโลยี ต่างก็มีบทบาทในชีวิตเราเป็นอย่างมาก เข้ามาเป็นส่วนหนึ่งในชีวิตเรา<br>
+   แต่ก็อย่าลืมนะครับ ว่าต้นไม้ ก็เป็นสิ่งสำคัญต่อเราเช่นกัน เราจึงได้ทำการนำเทคโนโลยีเข้ามาช่วยดูแลต้นไม้<br>
+   โดยจะมี 3 สิ่งที่จะช่วยเป็นตัวแปรสำหรับการรดน้ำต้นไม้ ได้แก่ อุณหภูมิ ความชื้นในอากาศ ความชื้นในดิน<br>
+   หากค่าใดค่าหนึ่งต่ำกว่าค่าที่ผู้ใช้ตั้งค่าไว้ อุปกรณ์ก็จะทำการรดน้ำ
 ## Require
 - NodeMCU v3 LoLin
 - DHT11
@@ -7,11 +12,15 @@
 - DS3231
 - SD Card Module
 - Solenoid Valve
-- Water Pump
-## Getting Start
-1. Make "config.h" from "config-example.h".
-2. Edit your wifi name, password and other config.
-3. Compile and upload to "NodeMCU" by ArduinoIDE.
-4. Assemble your project.
-5. Configure through the website. You can see your IP by serial monitor after restart
-6. Plant something.
+## Setting Fist Time
+  1.
+## Team Members
+|  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
+|:-:|--|------|---------------|---------|
+|![](img/siwawat.jpg)|Siwawat|Srisuk|[@unixxcorn](https://github.com/unixxcorn)|60070096|
+|![](img/sopoat.jpg)|Sopoat|Iamcharoen|[@sopoat0101](https://github.com/sopoat0101)|60070101|
+|![](img/ariya.jpg)|Ariya|Sonklin|[@unixxcorn](https://github.com/AriyaSonklin)|60070118|
+## ![](img/Supervisor.png) Assistant Teacher
+|ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
+|:-:|:-:|
+|![](img/Aj.%20Oong.png)|![](img/Aj.%20Panwit.png)|
