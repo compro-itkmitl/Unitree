@@ -12,7 +12,7 @@
 - DS3231
 - SD Card Module
 - Solenoid Valve
-## Setting Fist Time
+## Setting First Time
   1.
 ## Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
